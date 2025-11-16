@@ -1,4 +1,4 @@
-# This repository is maintained and practiced by Fahmida Islam for beiing expert in python
+# This repository is maintained and practiced by Fahmida Islam for being expert in python
 # The Ultimate Python Course 
 
 Welcome to [**The Ultimate Python Course!**](https://youtu.be/UrsmFxEIp5k)
