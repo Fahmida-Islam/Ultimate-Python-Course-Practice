@@ -1,4 +1,5 @@
-# The Ultimate Python Course
+# This repository is maintained and practiced by Fahmida Islam for beiing expert in python
+# The Ultimate Python Course 
 
 Welcome to [**The Ultimate Python Course!**](https://youtu.be/UrsmFxEIp5k)
 
